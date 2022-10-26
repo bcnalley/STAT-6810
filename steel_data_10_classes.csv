@@ -1,4 +1,4 @@
-"class","Usage_kWh","Lagging_Current_Reactive.Power_kVarh","Leading_Current_Reactive_Power_kVarh","CO2.tCO2.","Lagging_Current_Power_Factor","Leading_Current_Power_Factor","NSM","WeekStatus_Weekday","WeekStatus_Weekend","Day_of_week_Friday","Day_of_week_Monday","Day_of_week_Saturday","Day_of_week_Sunday","Day_of_week_Thursday","Day_of_week_Tuesday","Day_of_week_Wednesday","Load_Type_Light_Load","Load_Type_Maximum_Load","Load_Type_Medium_Load"
+"class","Usage","Lagging_Current_Reactive.Power_kVarh","Leading_Current_Reactive_Power_kVarh","CO2.tCO2.","Lagging_Current_Power_Factor","Leading_Current_Power_Factor","NSM","WeekStatus_Weekday","WeekStatus_Weekend","Day_of_week_Friday","Day_of_week_Monday","Day_of_week_Saturday","Day_of_week_Sunday","Day_of_week_Thursday","Day_of_week_Tuesday","Day_of_week_Wednesday","Load_Type_Light_Load","Load_Type_Maximum_Load","Load_Type_Medium_Load"
 "1",2.74,2.88,1.91,0,68.93,82.04,31500,1,0,0,1,0,0,0,0,0,1,0,0
 "1",2.52,5.22,0,0,43.47,100,7200,0,1,0,0,0,1,0,0,0,1,0,0
 "1",2.74,5,0,0,48.06,100,30600,0,1,0,0,0,1,0,0,0,1,0,0
